@@ -171,6 +171,7 @@ https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/projects/meu-projet
 7. Ao adicionar um asset, **informar a URL pública** resultante
 8. Ao criar um projeto, usar o **template padrão** de sub-estrutura
 9. **Prefixo de commit**: `add:`, `move:`, `remove:`, `fix:`, `structure:`
+10. **Sempre atualizar o README.md** com o índice de assets disponíveis e suas URLs após cada realocação
 
 ## Stack
 

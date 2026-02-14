@@ -24,16 +24,23 @@ Repositório de assets visuais do ecossistema Ecommerce Puro. Serve como CDN est
 
 ### Global
 
-#### Logo (Dark)
+#### Logo — Dark (para fundos escuros)
 | Arquivo | Formato | URL |
 |---------|---------|-----|
 | logo-ecommerce-puro-white.svg | SVG | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/logo/dark/logo-ecommerce-puro-white.svg) |
 | logo-ecommerce-puro-white.png | PNG | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/logo/dark/logo-ecommerce-puro-white.png) |
 
-#### Favicon
+#### Logo — Light (para fundos claros)
 | Arquivo | Formato | URL |
 |---------|---------|-----|
-| favicon.webp | WEBP | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/favicon/favicon.webp) |
+| logo-ecommerce-puro-color.svg | SVG | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/logo/light/logo-ecommerce-puro-color.svg) |
+| logo-ecommerce-puro-color.png | PNG | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/logo/light/logo-ecommerce-puro-color.png) |
+
+#### Favicon
+| Arquivo | Formato | Descrição | URL |
+|---------|---------|-----------|-----|
+| favicon.webp | WEBP | Fundo escuro, letra clara | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/favicon/favicon.webp) |
+| favicon-light.webp | WEBP | Fundo claro, letra escura | [Link](https://raw.githubusercontent.com/Ecommerce-Puro/assets/main/global/favicon/favicon-light.webp) |
 
 ## Como Usar
 

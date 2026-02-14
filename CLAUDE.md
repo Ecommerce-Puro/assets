@@ -61,6 +61,19 @@ A pasta `_inbox/` é o **único ponto de entrada** para novos assets. O fluxo é
 - Se houver múltiplos arquivos, perguntar sobre cada um individualmente ou solicitar uma descrição em lote.
 - Após mover, confirmar ao usuário o destino e a URL pública gerada.
 
+### Análise Visual Obrigatória
+
+- **NUNCA confiar no nome original do arquivo.** Sempre abrir/analisar visualmente a imagem antes de decidir o destino.
+- Determinar pela análise do conteúdo: cores (branco/preto/colorido), tipo (logo/ícone/banner), uso adequado (dark/light/monochrome).
+- **Renomear o arquivo** seguindo as convenções de nomenclatura antes de mover, independentemente do nome original.
+- Exemplos: um arquivo chamado `img1.png` que é uma logo branca deve ser renomeado para `logo-ecommerce-puro-white.png`.
+
+### Commit e Push Obrigatório
+
+- **Após cada realocação de assets**, fazer imediatamente `git add`, `commit` e `push`.
+- Não acumular múltiplas operações sem commit — cada movimentação deve gerar seu próprio commit e push.
+- Isso garante que as URLs públicas fiquem disponíveis imediatamente após a alocação.
+
 ---
 
 ## Criação de Novos Projetos
